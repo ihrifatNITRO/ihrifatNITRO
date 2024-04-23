@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ihrifatNITRO
-- 👀 I’m interested in problem solving, android app development
-- 🌱 I’m currently learning android app development
+- 👀 I’m interested in problem-solving, Django projects and in AI
+- 🌱 I’m currently learning ML & DL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
